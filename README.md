@@ -47,6 +47,15 @@ For deaf users: vibration + visual + boosted alarm frequency.
 Left buzz = go left, right buzz = go right.
 
 Safe volume even in panic, so you're not deafened by the alarm itself while trying to escape.
+**Buzz Navigation - No Words Needed:**
+
+- Buzz in LEFT ear = turn LEFT
+- Buzz in RIGHT ear = turn RIGHT
+- Buzz gets FASTER = wrong way / danger close, turn around
+- Buzz gets SLOWER / stops = correct direction, keep going
+- BOTH ears buzz together = STOP, danger ahead
+
+Works through smoke, works if you're deaf, works if you can't hear words, works if you don't speak the language. Your body just follows the buzz.
 
 ## License — Keep It Free Forever
 
